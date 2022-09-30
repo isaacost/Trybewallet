@@ -11,10 +11,10 @@ class Header extends React.Component {
     return (
       <div>
         <h3 data-testid="email-field">
-          {email}
+          {`Email: ${email}`}
         </h3>
         <h3 data-testid="total-field">
-          {despTotal}
+          { `Despesas Total: ${despTotal}`}
         </h3>
         <h3 data-testid="header-currency-field">
           {cambio}
