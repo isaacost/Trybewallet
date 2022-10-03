@@ -50,6 +50,7 @@ class Table extends React.Component {
                 <td>
                   <button
                     type="button"
+                    data-testid="edit-btn"
                   >
                     Editar
                   </button>
