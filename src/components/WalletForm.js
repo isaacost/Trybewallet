@@ -1,7 +1,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
-import { fetchAPICoins, fetchAPIExpense } from '../redux/actions';
+import { fetchAPICoins, fetchAPIExpense } from '../redux/actions/functions';
 
 class WalletForm extends React.Component {
   state = {

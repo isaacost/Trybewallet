@@ -1,7 +1,4 @@
-// ACTIONS TYPES
-export const ADD_LOGIN = 'ADD_LOGIN';
-export const ADD_COINS = 'ADD_COINS';
-export const ADD_EXPENSE = 'ADD_EXPENSE';
+import { ADD_LOGIN, ADD_COINS, ADD_EXPENSE, REMOVE_EXPENSE } from './actionsTypes';
 
 // ACTIONS CREATORS
 export const addLogin = (email) => ({
@@ -22,22 +19,7 @@ export const addExpense = (expense, cambio) => ({
   },
 });
 
-// FUNÇÕES
-
-export function fetchAPICoins() {
-  return async (dispatch) => {
-    const endpoint = 'https://economia.awesomeapi.com.br/json/all';
-    const data = await fetch(endpoint);
-    const response = await data.json();
-    dispatch(addCoins(response));
-  };
-}
-
-export function fetchAPIExpense(expense) {
-  return async (dispatch) => {
-    const endpoint = 'https://economia.awesomeapi.com.br/json/all';
-    const data = await fetch(endpoint);
-    const response = await data.json();
-    dispatch(addExpense(expense, response));
-  };
-}
+export const removeExpense = (element) => ({
+  type: REMOVE_EXPENSE,
+  payload: element.id,
+});
