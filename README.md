@@ -39,5 +39,22 @@ $ npm start
 
 <br/><br/>
 
+<p align="center">
+  Criado e desenvolvido por <b>Isabela Costa</b>
+  <br/><br/>
+  
+  <a href="https://isaacost.github.io/">
+    <img alt="portfolio" height="30px" src="https://i.imgur.com/7lbNPnj.png" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/isa-hcosta/">
+    <img alt="linkedIn" height="30px" src="https://i.imgur.com/TQRXxhT.png" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:isa-hcosta@hotmail.com?subject=website contact">
+    <img alt="email" height="30px" src="https://i.imgur.com/wu7e3PJ.png" />
+  </a>
+</p>
+
 
 OBS: Para esse projeto falta desenvolver estilização
