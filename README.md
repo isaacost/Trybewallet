@@ -1,13 +1,43 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h4 align="center">
+  <img width="180px" alt="trybe wallet logo" src="https://i.imgur.com/Zrx8New.png" />
+  <br /><br />
+  Uma carteira de gerenciamento de gastos.
+</h4>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<hr />
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<!--   <a href="https://vini-trybe-wallet.vercel.app/">Visite o app</a> -->
+</p>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido usando as seguintes tecnologias:
+
+-  [React.js](https://reactjs.org/)
+-  [Redux](https://redux.js.org/)
+-  [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+-  [VS Code](https://code.visualstudio.com/)
+
+## :information_source: Como usar
+
+Para clonar e rodar a aplicação, você precisará do [Git](https://git-scm.com), [VS Code](https://code.visualstudio.com/), [Node.js](https://nodejs.org/) and [NPM](https://www.npmjs.com/) . Da linha de comando:
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/vinibortoletto/trybe-wallet.git
+
+# Instale as dependências
+$ npm install
+
+# Rode o app
+$ npm start
+
+```
+
+<br/><br/>
+
+
+OBS: Para esse projeto falta desenvolver estilização
