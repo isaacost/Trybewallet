@@ -5,7 +5,7 @@
 
 <hr />
 
-# Projeto TrybeWallet :wallet:
+# Projeto TrybeWallet
 Projeto realizado durante módulo de Front-end do curso de desenvolvimento web da Trybe.
 
 <details>
