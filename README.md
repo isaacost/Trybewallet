@@ -27,7 +27,7 @@ Para clonar e rodar a aplicação, você precisará do [Git](https://git-scm.com
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/vinibortoletto/trybe-wallet.git
+$ git clone git@github.com:isaacost/Trybewallet.git
 
 # Instale as dependências
 $ npm install
