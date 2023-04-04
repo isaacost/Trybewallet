@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://vini-trybe-wallet.vercel.app/">Visite o app</a> -->
+  <a href="https://isa-trybewallet.vercel.app/">Visite o app</a>
 </p>
 
 ## :rocket: Tecnologias
